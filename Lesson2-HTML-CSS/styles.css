@@ -1,0 +1,25 @@
+<!-- in front of your first style tag
+h1 {
+  color:firebrick;
+  }
+ 
+ #divId {
+  height: 300px;
+  width: 400px;
+  background-color:yellow;
+  padding: 50px;
+  border-radius: 5px;
+  border-color: firebrick;
+  border-width: 3px;
+  border-style: solid;
+ }
+
+ #spanId {
+  font:50px;
+ }
+
+ .spanClass {
+  margin: 50px;
+ }
+
+ --> after your closing style tag
