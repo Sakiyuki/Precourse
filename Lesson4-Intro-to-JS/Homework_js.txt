@@ -1,0 +1,9 @@
+Variables: Are like a box that you would use to store your toys in.  Once you tape the box closed, you would need to write on the box what type of toys are stored in the box, when you store the box in your closet and want to play with it later all you have to do is look for the box with whatever toy you are looking for to play with written on the outside of the box and pull it out of your closet.
+
+String:  Strings are any text that's wrapped in either (') or (") double quotes.  
+
+Functions (arguments, return):  A function is something that you tell the computer to do in side a group of statements or commands.  An argument is information you give to the computer to help the computer make a calculation or decision.  Return is what you ask the computer to give you back, once it makes a decision or calculation.
+
+If statements:  Is when you give the computer the ability to make a decision.  You tell it to do something according to something it can compare against.  Ex:  If it's raining outside, get a rain jacket.  Else go outside without out one.
+
+Boolean values:  Booleans are simply true or false.  If you ask the computer if something is true, it will return the value true if it is and false if it is not.  Computers only understand 1's and 0's which equate to on (1) and off (0).  1 being true and 0 being false.  With a byte of 1's and 0's the computer has the ability to execute a command.
